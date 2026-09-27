@@ -31,5 +31,14 @@
          echo("The driver of Redbull is " . $driver["Redbull"] . "<br>");
          echo("The driver of Mercedes is " . $driver["Mercedes"] . "<br>");    
          echo("The driver of Ferrari is " . $driver["Ferrari"] . "<br>");
-         echo("The driver of Mclaren is " . $driver["Mclaren"] . "<br>");                       
+         echo("The driver of Mclaren is " . $driver["Mclaren"] . "<br>");    
+          echo("<br>");
+          
+         // foreach($driver as $key => $value){
+           // echo("The driver of " . $key . " is " . $value . "<br>");
+         // }
+
+         // foreach($driver as {key} => {value}){
+           // echo"{key} = {value} <br>";
+         // }
     ?>
